@@ -1,5 +1,4 @@
 .vscode
 .venv
-tasks
 *.json
 reports_**
