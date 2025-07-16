@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Personal Finance Tracker - Demo Python Project for Testing LLM Agents
 
 An enhanced Python-based personal finance tracker with user authentication, expense tracking, budget management, reporting, and a CLI.
 
